@@ -1,0 +1,28 @@
+_repo: Practical-Politics--or-the-Liberalism-of-To-day_35894
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Robbins, Alfred Farthing
+    alias: Robbins, Alfred F.
+    birthdate: 1856
+    deathdate: 1931
+    gutenberg_agent_id: '37962'
+    url: http://www.gutenberg.org/2009/agents/37962
+description: ''
+gutenberg_issued: '2011-04-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35894'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Liberalism -- Great Britain'
+- !lcsh 'Great Britain -- Politics and government -- 1837-1901'
+- !lcc 'DA'
+title: Practical Politics; or, the Liberalism of To-day
+url: http://www.gutenberg.org/ebooks/35894
